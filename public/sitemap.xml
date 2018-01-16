@@ -5,7 +5,25 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
+      <loc>https://ncbradley.com/project/devy/</loc>
+      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ncbradley.com/publication/devy/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ncbradley.com/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,7 +32,7 @@
     
     <url>
     
-      <loc>/talk/example-talk/</loc>
+      <loc>https://ncbradley.com/talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +41,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>https://ncbradley.com/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +50,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>https://ncbradley.com/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,7 +59,7 @@
     
     <url>
     
-      <loc>/talk/</loc>
+      <loc>https://ncbradley.com/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -50,25 +68,7 @@
     
     <url>
     
-      <loc>/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/getting-started/</loc>
+      <loc>https://ncbradley.com/post/getting-started/</loc>
       <lastmod>2017-09-03T00:00:00+00:00</lastmod>
     </url>
     
@@ -77,7 +77,7 @@
     
     <url>
     
-      <loc>/post/widgets/</loc>
+      <loc>https://ncbradley.com/post/widgets/</loc>
       <lastmod>2016-04-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -86,7 +86,7 @@
     
     <url>
     
-      <loc>/post/managing-content/</loc>
+      <loc>https://ncbradley.com/post/managing-content/</loc>
       <lastmod>2016-04-18T00:00:00+00:00</lastmod>
     </url>
     
@@ -95,7 +95,7 @@
     
     <url>
     
-      <loc>/post/writing-markdown-latex/</loc>
+      <loc>https://ncbradley.com/post/writing-markdown-latex/</loc>
       <lastmod>2016-04-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -104,7 +104,7 @@
     
     <url>
     
-      <loc>/post/faq/</loc>
+      <loc>https://ncbradley.com/post/faq/</loc>
       <lastmod>2016-04-10T00:00:00+00:00</lastmod>
     </url>
     
@@ -113,16 +113,7 @@
     
     <url>
     
-      <loc>/publication/person-re-identification/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/migrate-from-jekyll/</loc>
+      <loc>https://ncbradley.com/post/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     </url>
     
@@ -131,17 +122,8 @@
     
     <url>
     
-      <loc>/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <loc>https://ncbradley.com/publication_types/1/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -150,8 +132,8 @@
     
     <url>
     
-      <loc>/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <loc>https://ncbradley.com/tags/assistant/</loc>
+      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -160,8 +142,8 @@
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00+00:00</lastmod>
+      <loc>https://ncbradley.com/tags/automation/</loc>
+      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -170,7 +152,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>https://ncbradley.com/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -179,27 +161,7 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/hugo/</loc>
+      <loc>https://ncbradley.com/tags/hugo/</loc>
       <lastmod>2017-09-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -209,7 +171,7 @@
     
     <url>
     
-      <loc>/tags/jekyll/</loc>
+      <loc>https://ncbradley.com/tags/jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -219,8 +181,8 @@
     
     <url>
     
-      <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>https://ncbradley.com/</loc>
+      <lastmod>2017-12-26T19:17:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -229,8 +191,8 @@
     
     <url>
     
-      <loc>/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <loc>https://ncbradley.com/project/</loc>
+      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -239,7 +201,17 @@
     
     <url>
     
-      <loc>/tags/</loc>
+      <loc>https://ncbradley.com/publication_types/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ncbradley.com/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
